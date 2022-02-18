@@ -7,7 +7,11 @@ Xray一键安装脚本，支持节点自动生成伪装站，支持和宝塔面�
 ```shell
 wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/Xray-script@master/xray.sh && bash xray.sh
 ```
+## 使用方法
 
+```shell
+bash <(curl -sSL "https://raw.githubusercontent.com/veip007/scripts/master/xray.sh")
+```
 ## 支持协议
 
 * Xray-VMESS
